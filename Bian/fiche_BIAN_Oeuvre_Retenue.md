@@ -27,5 +27,7 @@ MÉTAMORPHOSE [Affiche de l'exposition](https://images.squarespace-cdn.com/conte
 
 Lieu de mise en exposition: (Arsenal art contemporain,Montréal)  [entrée du lieu](https://s3.amazonaws.com/mountainlake.org/wp-content/uploads/2021/11/23112152/256779641_2018349404990231_2939501952603656975_n-1155x770.jpg)
  
-Une exposition de type temporaire,itinérante et intérieur.
+Cette exposition est de type temporaire,itinérante et intérieur.Elle est bisannuel,elle peut changer d'enplacement.L'oeuvre est placer dans un établissement.
+
+Ma visite était le 2 février.
 
