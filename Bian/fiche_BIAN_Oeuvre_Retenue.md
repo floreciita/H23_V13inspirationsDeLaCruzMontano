@@ -17,5 +17,6 @@
 | Expérience vécue     | Posture du visiteur ou gestes de l'interacteur :movie_camera: possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci        | Texte qui explique ce qui est attendu du visiteur ou de l'interacteur. Où et comment se positionne-t-il/elle? Que faut-il faire? Comment l'oeuvre réagit-elle (si interactive)? Plus personnellement, description de l'expérience que l'oeuvre vous a fait vivre. |
 | :heart: Ce qui vous a plu, vous a donné des idées    | Éléments pertinents       | Texte à rédiger qui présente un ou des aspects inspirants, avec **justifications détaillées** (pourquoi est-ce que cela vous a plus/ vous a donné des idées ? |
 | :thinking: Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement    | Éléments pertinents      |Texte à rédiger qui présente un ou des aspects que vous ne retiendriez pas ou feriez autrement, avec **justifications détaillées** (pourquoi? comment?)  | 
-| Références     |          |hyperliens vers les sites consultés  |
+| Références     |          |hyperliens vers les sites consultés [Site de l'artiste Louis-Philippe Rondeau](http://patenteux.com/wp/))
+ |
 
