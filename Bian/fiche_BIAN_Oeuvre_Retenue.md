@@ -1,4 +1,4 @@
-##Tomorrow's Borrowed Scenery 90's Pick Ups Foreground Proposition,2022##
+## Tomorrow's Borrowed Scenery 90's Pick Ups Foreground Proposition,2022 ##
 par Paul Duncombe
 
 
