@@ -56,4 +56,5 @@ mise en scène:
 
 
 Expérience vécue:
+
 Il faut se déplacer en tant que spectateur pour pouvoir contempler l'oeuvre et s'imaginer que l'oeuvre est la vision d'un futur probable.
