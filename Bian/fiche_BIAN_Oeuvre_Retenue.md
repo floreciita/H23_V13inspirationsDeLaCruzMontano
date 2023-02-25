@@ -43,9 +43,9 @@ Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'�
 
 Le type d'installation est contemplative.
 mise en scène:
--Brouillard
--oscillations lumineuses
--nappes sonores
+- Brouillard
+- oscillations lumineuses
+- nappes sonores
 
 
 
