@@ -32,7 +32,7 @@ Cette exposition est de type temporaire,itinérante et intérieur.Elle est bisan
 Ma visite était le 2 février.
 
 Description de l'oeuvre:
-Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'épaves de véhicules végétalisées, évoquant le passage d'une vague, ou l'effet de souffle d'une explosion. Autour des épaves, des automates entretiennent la propagation des plantes et des insectes qui s'y réfugient. Brouillard, oscillations lumineuses, nappes sonores... une mise en scène cinématographique entoure ce décor artificiellement abîmé, conçu comme la proposition spéculative d'un avant-plan, prêt à incorporer les paysages qui seront l'arrière-plan de demain.
+Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'épaves de véhicules végétalisées, évoquant le passage d'une vague, ou l'effet de souffle d'une explosion. Autour des épaves, des automates entretiennent la propagation des plantes et des insectes qui s'y réfugient.La proposition spéculative d'un avant-plan, prêt à incorporer les paysages qui seront l'arrière-plan de demain.
 
 [site web informations de l'oeuvre]   (https://www.elektramontreal.ca/bian2022-paul-duncombe)
 
@@ -42,6 +42,14 @@ Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'�
 
 
 Le type d'installation est contemplative.
+mise en scène:
+-Brouillard
+-oscillations lumineuses
+-nappes sonores
+
+
+
+
 
 [![Bian](http://img.youtube.com/vi/wUXWYUYZCfo/0.jpg)](http://www.youtube.com/watch?v=wUXWYUYZCfo)
 
