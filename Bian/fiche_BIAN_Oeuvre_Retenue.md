@@ -37,7 +37,7 @@ Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'�
 [site web informations de l'oeuvre]   (https://www.elektramontreal.ca/bian2022-paul-duncombe)
 
 
-Le type d'installations est contemplative.
+Le type d'installation est contemplative.
 
 [![Bian](http://img.youtube.com/vi/wUXWYUYZCfo/0.jpg)](http://www.youtube.com/watch?v=wUXWYUYZCfo)
 
