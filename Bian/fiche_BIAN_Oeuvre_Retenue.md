@@ -40,7 +40,7 @@ Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'�
 Le type d'installations est contemplative.
 
 
-[(http://img.youtube.com/vi/ID https://youtube.com/shorts/wUXWYUYZCfo?feature=share /0.jpg)] (http://www.youtube.com/watch?v= https://youtube.com/shorts/wUXWYUYZCfo?feature=share)
+[(http://img.youtube.com/vi/ID wUXWYUYZCfo?feature=share /0.jpg)] (http://www.youtube.com/watch?v= wUXWYUYZCfo?feature=share)
 
 
 
