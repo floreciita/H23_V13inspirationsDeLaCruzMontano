@@ -47,18 +47,16 @@ Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'�
 
 
 
-
-
 [![Bian](http://img.youtube.com/vi/wUXWYUYZCfo/0.jpg)](http://www.youtube.com/watch?v=wUXWYUYZCfo)
 
 ## Composantes et techniques: ##
 - Câbles et fils électriques 
 - automobiles
--
+- haut-parleurs 
 
 ## Éléments nécessaires à la mise en exposition: ##
-
-
+- tuyaux
+-
 
 ## Expérience vécue: ##
 
