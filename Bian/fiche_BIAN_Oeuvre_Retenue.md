@@ -58,3 +58,18 @@ mise en scène:
 Expérience vécue:
 
 Il faut se déplacer en tant que spectateur pour pouvoir contempler l'oeuvre et s'imaginer que l'oeuvre est la vision d'un futur probable.
+
+Ce qui m'a plu de cette oeuvre est la réflexion qui est représentée à travers elle. Selon les organisateurs les actions environnementales des humains mèneront à cette réflexion. De plus, j'ai aimé l'ajout du brouillard dans l'oeuvre.
+
+Ce que je ferais différemment serait de changer emplacement qui était dans le coin. Le centre aurait convenu mieux pour pouvoir tourner autour de l'oeuvre.
+
+## Références ##
+
+[Affiche de l'exposition](https://images.squarespace-cdn.com/content/v1/5afb5bb0fcf7fd7aebb47cac/f5712e20-8157-44a5-8a43-8f9833acf17f/site-web-27-1500x1000.jpg?format=1500w)
+
+ [entrée du lieu](https://s3.amazonaws.com/mountainlake.org/wp-content/uploads/2021/11/23112152/256779641_2018349404990231_2939501952603656975_n-1155x770.jpg)
+ 
+ [site web informations de l'oeuvre]   (https://www.elektramontreal.ca/bian2022-paul-duncombe)
+ 
+ 
+
