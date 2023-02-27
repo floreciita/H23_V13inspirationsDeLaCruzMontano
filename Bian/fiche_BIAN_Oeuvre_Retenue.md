@@ -47,17 +47,17 @@ Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'�
 
 
 
-[![Bian](http://img.youtube.com/vi/wUXWYUYZCfo/0.jpg)](http://www.youtube.com/watch?v=wUXWYUYZCfo)
+[![Bian] (http://img.youtube.com/vi/wUXWYUYZCfo/0.jpg)](http://www.youtube.com/watch?v=wUXWYUYZCfo)
 
 ## Composantes et techniques: ##
 - Câbles et fils électriques 
-- automobiles
-- haut-parleurs 
+- Automobiles
+- Platines électroniques
 
 ## Éléments nécessaires à la mise en exposition: ##
-- tuyaux
--
-
+- Tuyaux
+- Herses
+- Haut-parleurs
 ## Expérience vécue: ##
 
 Il faut se déplacer en tant que spectateur pour pouvoir contempler l'oeuvre et s'imaginer que l'oeuvre est la vision d'un futur probable.
