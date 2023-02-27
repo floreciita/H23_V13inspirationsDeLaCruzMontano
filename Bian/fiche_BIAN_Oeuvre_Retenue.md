@@ -34,7 +34,7 @@ Ma visite était le 2 février.
 Description de l'oeuvre:
 Les installations de la série Tomorrow's Borrowed-Scenery sont constituées d'épaves de véhicules végétalisées, évoquant le passage d'une vague, ou l'effet de souffle d'une explosion. Autour des épaves, des automates entretiennent la propagation des plantes et des insectes qui s'y réfugient.La proposition spéculative d'un avant-plan, prêt à incorporer les paysages qui seront l'arrière-plan de demain.
 
-[site web informations de l'oeuvre]   (https://www.elektramontreal.ca/bian2022-paul-duncombe)
+[site web informations de l'oeuvre] (https://www.elektramontreal.ca/bian2022-paul-duncombe)
 
 
 ![cartel](https://user-images.githubusercontent.com/112108220/221381146-6751380c-989c-4d84-b9b9-718f8cd3bf78.jpg)
@@ -69,7 +69,7 @@ Ce que je ferais différemment serait de changer emplacement qui était dans le 
 
  [entrée du lieu](https://s3.amazonaws.com/mountainlake.org/wp-content/uploads/2021/11/23112152/256779641_2018349404990231_2939501952603656975_n-1155x770.jpg)
  
- [site web informations de l'oeuvre]   (https://www.elektramontreal.ca/bian2022-paul-duncombe)
+ [site web informations de l'oeuvre] (https://www.elektramontreal.ca/bian2022-paul-duncombe)
  
  
 
