@@ -55,10 +55,11 @@ mise en scène:
 
 
 
-Expérience vécue:
+## Expérience vécue:##
 
 Il faut se déplacer en tant que spectateur pour pouvoir contempler l'oeuvre et s'imaginer que l'oeuvre est la vision d'un futur probable.
 
+## Points positifs et négatifs
 Ce qui m'a plu de cette oeuvre est la réflexion qui est représentée à travers elle. Selon les organisateurs les actions environnementales des humains mèneront à cette réflexion. De plus, j'ai aimé l'ajout du brouillard dans l'oeuvre.
 
 Ce que je ferais différemment serait de changer emplacement qui était dans le coin. Le centre aurait convenu mieux pour pouvoir tourner autour de l'oeuvre.
